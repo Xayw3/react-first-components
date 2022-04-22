@@ -1,0 +1,9 @@
+.link {
+    color: #000;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.link:not(:last-of-type) {
+    margin-right: 15px;
+}
